@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Bitcoin",
+        "id": "1",
+        "variation": "1",
+        "twitterSentiment": "2",
+        "govSentiment": "3",
+        "newsSentiment": 4
+    },
+    {
+        "name": "2",
+        "id": "2",
+        "variation": "1",
+        "twitterSentiment": "2",
+        "govSentiment": "3",
+        "newsSentiment": 4
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "date": [
+                "1/2019", 
+                "2/2019", 
+                "3/2019"
+            ], 
+            "price": [
+                20, 
+                14, 
+                23
+            ], 
+            "type": "scattergl",
+            "marker": {
+                "color": "red"},
+            "name": "Data Testing"  
+        }
+    ]
+}
